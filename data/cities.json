@@ -1,0 +1,148 @@
+{
+  "cities": [
+    {
+      "cityName": "Mathura",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-09T09:16:30.863Z",
+      "notes": "Radhe Radhe!",
+      "position": {
+        "lat": 27.551805,
+        "lng": 77.67382
+      },
+      "id": "98443199"
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "ba66",
+      "cityName": "Dadri",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2024-07-03T05:36:19.070Z",
+      "notes": "",
+      "position": {
+        "lat": "28.570161645093997",
+        "lng": "77.59600649944126"
+      }
+    },
+    {
+      "id": "67e7",
+      "cityName": "Khurja",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2024-07-03T05:41:17.253Z",
+      "notes": "",
+      "position": {
+        "lat": "28.252413743387763",
+        "lng": "77.85589444869382"
+      }
+    },
+    {
+      "id": "3b1b",
+      "cityName": "Sikandarabad",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2024-07-03T05:41:17.253Z",
+      "notes": "",
+      "position": {
+        "lat": "28.450609535776984",
+        "lng": "77.6904470766936"
+      }
+    },
+    {
+      "id": "d3d6",
+      "cityName": "Anupshahr",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2024-07-03T05:41:17.253Z",
+      "notes": "",
+      "position": {
+        "lat": "28.40152609087559",
+        "lng": "78.102635023374"
+      }
+    },
+    {
+      "id": "7f76",
+      "cityName": "Dehra Dun",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2024-07-03T05:41:17.253Z",
+      "notes": "",
+      "position": {
+        "lat": "30.330236734620566",
+        "lng": "78.09469388430273"
+      }
+    },
+    {
+      "id": "e39e",
+      "cityName": "Greater Noida",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2024-07-03T05:41:17.253Z",
+      "notes": "",
+      "position": {
+        "lat": "28.477208931030784",
+        "lng": "77.54539198518475"
+      }
+    },
+    {
+      "id": "9e30",
+      "cityName": "Bulandshahr",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2024-07-03T09:04:01.119Z",
+      "notes": "",
+      "position": {
+        "lat": "28.414389774476454",
+        "lng": "77.90926022069216"
+      }
+    },
+    {
+      "id": "545f",
+      "cityName": "Bilari",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2024-07-03T09:04:26.674Z",
+      "notes": "",
+      "position": {
+        "lat": "28.623345654897655",
+        "lng": "78.71613041875595"
+      }
+    },
+    {
+      "id": "8a0a",
+      "cityName": "Siyana",
+      "emoji": "🇮🇳",
+      "country": "India",
+      "date": "2024-07-03T09:05:12.410Z",
+      "notes": "",
+      "position": {
+        "lat": "28.63277384919352",
+        "lng": "78.08361775012237"
+      }
+    }
+  ]
+}
